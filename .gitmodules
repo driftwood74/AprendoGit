@@ -1,0 +1,9 @@
+[submodule "curso"]
+	path = curso
+	url = git@github.com:oslugr/curso-git.git
+[submodule "repo-ejemplo"]
+	path = repo-ejemplo
+	url = git@github.com:oslugr/repo-ejemplo.git
+[submodule "repo-plantilla"]
+	path = repo-plantilla
+	url = git@github.com:JJ/repo-plantilla.git
